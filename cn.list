@@ -1,0 +1,20 @@
+#自用规则，国内
+ - DOMAIN-SUFFIX,icat.vqyt.cn
+ - DOMAIN-SUFFIX,baidu.com
+ - DOMAIN-SUFFIX,blog.csdn.net
+ - DOMAIN-SUFFIX,zhihu.com
+ - DOMAIN-SUFFIX,duitang.com
+ - DOMAIN-SUFFIX,www.gjtq.cloud
+ - DOMAIN-SUFFIX,user.jsyml.cn
+ - DOMAIN-SUFFIX,cloud.jiduyun.cn
+ - DOMAIN-SUFFIX,i.y.qq.com
+ - DOMAIN-SUFFIX,taobao.com
+ - DOMAIN-SUFFIX,qqmusic.qq.com
+#QQ Music
+  - DOMAIN-SUFFIX,music.qq.com
+  - DOMAIN-SUFFIX,music.tc.qq.com
+  - DOMAIN-SUFFIX,qqmusic.qq.com
+  - DOMAIN-SUFFIX,tencentmusic.com
+  - DOMAIN-SUFFIX,y.qq.com
+  - DOMAIN,aqqmusic.tc.qq.com
+  - DOMAIN,moo.qq.com
