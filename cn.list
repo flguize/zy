@@ -53,3 +53,6 @@
   -IP-CIDR,223.252.199.66/31,no-resolve
   -IP-CIDR,223.252.199.66/32,no-resolve
   -IP-CIDR,223.252.199.67/32,no-resolve
+# Ximalaya 喜马拉雅
+  - DOMAIN-SUFFIX,ximalaya.com
+  - DOMAIN-SUFFIX,xmcdn.com
