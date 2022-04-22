@@ -57,6 +57,7 @@
   - DOMAIN-SUFFIX,ximalaya.com
   - DOMAIN-SUFFIX,xmcdn.com
 # 汽水音乐（待补充）
-  - DOMAIN-SUFFIX,p3-luna.douyinpic.com
-  - DOMAIN-SUFFIX,beta-luna.douyin.com
+  - DOMAIN-SUFFIX,p3-luna.douyinpic.com:443
+  - DOMAIN-SUFFIX,beta-luna.douyin.com:443
   - DOMAIN-SUFFIX,v9-luna.douyinvod.com:443
+  - DOMAIN-SUFFIX,ichannel.snssdk.com:443
