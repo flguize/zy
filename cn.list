@@ -86,7 +86,7 @@ IP-CIDR,59.111.21.14/31,no-resolve
 # Ximalaya喜马拉雅
 DOMAIN-SUFFIX,ximalaya.com
 DOMAIN-SUFFIX,xmcdn.com
-# 汽水音乐（待补充）
+# 汽水音乐
 DOMAIN-SUFFIX,p3-luna.douyinpic.com
 DOMAIN-SUFFIX,beta-luna.douyin.com
 DOMAIN-SUFFIX,v9-luna.douyinvod.com
