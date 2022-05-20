@@ -93,6 +93,5 @@ DOMAIN-SUFFIX,v9-luna.douyinvod.com
 DOMAIN-SUFFIX,ichannel.snssdk.com
 # 成都服务器自用规则
 IP-CIDR,118.112.240.230/32,DIRECT
-IP-CIDR,154.91.159.29/32,DIRECT
 DOMAIN-SUFFIX,yuedult.icatidc.edu.eu.org
 DOMAIN-SUFFIX,ydlt.skadi.top
