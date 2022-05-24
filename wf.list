@@ -4,3 +4,5 @@ DOMAIN-SUFFIX,yuedult.icatidc.edu.eu.org
 DOMAIN-SUFFIX,ydlt.skadi.top
 # 香港自用
 IP-CIDR,154.91.159.29/32,DIRECT
+# 某CDN互联
+DOMAIN-SUFFIX,web.senlucloud.cn
