@@ -5,7 +5,7 @@ DOMAIN,mqtt.zhihu.com
 DOMAIN,sugar.zhihu.com
 IP-CIDR,118.89.204.198/32
 IP-CIDR6,2402:4e00:1200:ed00:0:9089:6dac:96b6/128
-#隐私保护
+# 隐私保护
 DOMAIN,hm.baidu.com
 DOMAIN,hmma.baidu.com
 DOMAIN,js.users.51.la
