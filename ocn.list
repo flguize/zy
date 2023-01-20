@@ -3,6 +3,4 @@ DOMAIN-SUFFIX,dibidibi.cn
 # 腾讯云
 DOMAIN-SUFFIX,cloud.tencent.com
 DOMAIN-SUFFIX,dnspod.cn
-# 51统计临时
-DOMAIN-SUFFIX,user.51.la
-DOMAIN-SUFFIX,51.la
+
