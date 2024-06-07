@@ -1,0 +1,6 @@
+#frpc
+PROCESS-NAME,frpc.exe
+#zerotier
+PROCESS-NAME,zerotier-one_x64.exe
+#remant
+PROCESS-NAME,client233.exe
